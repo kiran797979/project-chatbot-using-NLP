@@ -1,4 +1,6 @@
 # Chatbot Using NLP with Streamlit
+![chatbot-deployed 1](https://github.com/user-attachments/assets/78966ba6-289c-46e2-b6be-1c665e3609b9)
+
 
 This project demonstrates the implementation of a chatbot using Natural Language Processing (NLP) and Streamlit for building an interactive web-based user interface. The chatbot is powered by various NLP techniques, allowing users to engage in meaningful conversations.
 
