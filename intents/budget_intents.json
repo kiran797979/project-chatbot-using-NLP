@@ -1,0 +1,91 @@
+[
+    {
+      "tag": "budget_greeting",
+      "patterns": [
+        "Hi, can you help me with budgeting?",
+        "Hello, I need some advice on making a budget",
+        "Hey, how do I start budgeting?",
+        "Can you guide me on creating a budget?"
+      ],
+      "responses": [
+        "Hi there! I'd be happy to help you get started with budgeting.",
+        "Hello! Let’s talk about how to manage your budget effectively.",
+        "Hey! I can guide you on setting up a budget that works for you."
+      ]
+    },
+    {
+      "tag": "budget_tips",
+      "patterns": [
+        "What are some tips for budgeting?",
+        "How can I stick to a budget?",
+        "Give me some advice on managing my expenses.",
+        "How do I make a budget I can follow?"
+      ],
+      "responses": [
+        "Start by tracking your income and expenses. Prioritize essentials and set saving goals.",
+        "Make sure to categorize your expenses and stick to limits for each category.",
+        "Try the 50/30/20 rule: 50% on needs, 30% on wants, and 20% on savings.",
+        "Review your budget monthly to adjust for any changes in income or expenses."
+      ]
+    },
+    {
+      "tag": "budget_tools",
+      "patterns": [
+        "Are there any tools for budgeting?",
+        "Can you recommend any apps for managing my budget?",
+        "What tools can help me with budgeting?",
+        "How do I use apps for creating a budget?"
+      ],
+      "responses": [
+        "You can try apps like Mint, YNAB (You Need A Budget), or PocketGuard for budgeting.",
+        "Tools like Excel or Google Sheets are great for creating custom budget trackers.",
+        "There are many budgeting apps available—find one that fits your needs best!"
+      ]
+    },
+    {
+      "tag": "budget_saving",
+      "patterns": [
+        "How can I save money while budgeting?",
+        "What are some saving strategies?",
+        "How do I cut unnecessary expenses?",
+        "Give me tips on saving money."
+      ],
+      "responses": [
+        "Identify non-essential expenses and reduce them. Small changes add up over time.",
+        "Set aside a fixed percentage of your income for savings each month.",
+        "Consider cooking at home instead of eating out, and look for discounts when shopping.",
+        "Automate your savings by setting up a recurring transfer to a savings account."
+      ]
+    },
+    {
+      "tag": "budget_emergency_fund",
+      "patterns": [
+        "What is an emergency fund?",
+        "How much should I save for emergencies?",
+        "Why is an emergency fund important?",
+        "Should I include an emergency fund in my budget?"
+      ],
+      "responses": [
+        "An emergency fund is money set aside for unexpected expenses, like medical bills or car repairs.",
+        "Aim to save at least 3-6 months' worth of essential expenses in your emergency fund.",
+        "Including an emergency fund in your budget provides financial security and peace of mind.",
+        "Start small and consistently add to your emergency fund over time."
+      ]
+    },
+    {
+      "tag": "budget_debt_management",
+      "patterns": [
+        "How can I manage debt while budgeting?",
+        "What should I prioritize: debt or savings?",
+        "How do I include debt repayment in my budget?",
+        "Tips for reducing debt while budgeting?"
+      ],
+      "responses": [
+        "Focus on high-interest debt first, like credit cards, while making minimum payments on others.",
+        "Include debt repayment as a category in your budget to ensure consistency.",
+        "Balance saving and debt repayment based on your financial situation—don’t neglect one for the other.",
+        "Consider strategies like the debt snowball or avalanche method to tackle your debt."
+      ]
+    }
+  ]
+  

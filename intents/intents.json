@@ -1,0 +1,92 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "How are you",
+            "Is anyone there?",
+            "Good day",
+            "Hey"
+        ],
+        "responses": [
+            "Hello!",
+            "Hi there!",
+            "Greetings!",
+            "How can I assist you today?"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "I am leaving",
+            "Have a good day"
+        ],
+        "responses": [
+            "Goodbye!",
+            "See you soon!",
+            "Take care!",
+            "Have a great day!"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thanks",
+            "Thank you",
+            "That's helpful",
+            "I appreciate it"
+        ],
+        "responses": [
+            "You're welcome!",
+            "Happy to help!",
+            "Anytime!",
+            "My pleasure!"
+        ]
+    },
+    {
+        "tag": "help",
+        "patterns": [
+            "Can you help me?",
+            "What can you do?",
+            "I need assistance",
+            "Help me"
+        ],
+        "responses": [
+            "Of course! What do you need help with?",
+            "I'm here to assist you. Tell me more.",
+            "Sure! Please explain what you need help with."
+        ]
+    },
+    {
+        "tag": "about",
+        "patterns": [
+            "What are you?",
+            "Who created you?",
+            "What is your purpose?",
+            "Tell me about yourself"
+        ],
+        "responses": [
+            "I am a chatbot created to assist with your queries.",
+            "I am here to make your tasks easier. How can I assist you?",
+            "I am an AI-powered assistant developed for your convenience."
+        ]
+    },
+    {
+        "tag": "budget",
+        "patterns": [
+            "How do I create a budget?",
+            "What is a budget?",
+            "Tips for budgeting",
+            "Help with budgeting"
+        ],
+        "responses": [
+            "Creating a budget is easy! Start by tracking your income and expenses.",
+            "A budget is a plan for your money. Begin by listing all your income and expenses.",
+            "Budgeting tips: Save first, spend later. Always track your expenses!"
+        ]
+    }
+]
